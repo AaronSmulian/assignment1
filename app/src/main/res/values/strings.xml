@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assignment 1</string>
+    <string name="history">History</string>
+    <string name="textInt">Enter your age</string>
+    <string name="match">Match</string>
+    <string name="clear">Clear</string>
+    <string name="generate_history">Generate History</string>
+
+</resources>
