@@ -1,22 +1,46 @@
-In this report I will be explaining how my Android Studio applcation works. This is the first app that I have created, which I have named, Assignment 1. The creation of this app was very difficult but enjoyable at the same time, it took ne roughly 20 hours to code and design. It is very new to a person who has never coded before. Let me go through the code and desgin with you.
+The app that I have created is an app designed for students, but it can be used by any user. Its purpose is to match the user's age with a historical figure who died at that inputted age. The application is amazingly simple. You have two buttons, one being a generate history button and one being a clear button. The generate history button is the button which will match the user with the historical figure. The clear button will clear all the information above, including the input age and the information about the historical figure. 
 
-![Screenshot 2024-04-04 222725](https://github.com/AaronSmulian/assignment1/assets/164137822/2f09887c-a10d-457c-95e6-b5620246cf8b) 
-- this is an image of my first 'textView' value. It is my 'headingTextView', which says 'History', it has been assigned to 'headingTextView'. The text has been set to black, it has an italic font with a 'textsize' of '100sp'. It has been placed at the top of the screen due to it being a heading or title, i chose a bigger font to attract the user to want to use the app or have a enjoyable time using it. It took a bit of time because it was new to me. While doing this project, it was still me learning my way around Android Studio, but it was definitely enjoyable creating this part. 
+There have been 10 historical figures, as well as their ages coded. When you input one of those 10 numbers, it will pop up with the information about that historical figure. If the input number is not one of those 10 numbers, then the app will give an error message that states that there is no historical figure who matches them. 
 
-![Screenshot 2024-04-04 224852](https://github.com/AaronSmulian/assignment1/assets/164137822/63479f73-eb38-4a43-96c6-51a0762b9377)
-- this is an image of my 'editText' value, which has been assigned to 'tableNumberEditText'. This is the text which inputs the user's age(integer), this value will be used later. I coded the 'editView' to match it with a historical figure (who died at the same age as the user is). This text has been coded to have an underline, to emphasize the prompt and/or attract the user to want to imput an age. The text has been set to black with a black underline. As well as the 'textSize' has been set to '40sp' with an 'ems of 10'.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/AaronSmulian/assignment1/assets/164137822/bb31f68b-f826-455c-9332-a4e905513bbe)
-- 
+Reference List:
+
+Reference for the historical figures: 
+
  
+https://artsandculture.google.com/category/historical-figure 
 
+Carp, L., 1970. Mozart: his tragic life and controversial death. Bulletin of the New York Academy of Medicine, 46(4), p.267. 
 
-  
+Phillips, D.C., 1979. William Lawrence Bragg, 31 March 1890-1 July 1971. 
 
+Comaneci, N., 2009. Letters to a young gymnast. Hachette UK. 
 
+Groppo, M., 2011. Uncovering Nellie Bly. Kaleidoscope, 10(1), p.41. 
 
+Wells, I.B., 2020. Crusade for justice: The autobiography of Ida B. Wells. University of Chicago Press. 
 
+Stanhope, P.H., 1879. Life of... William Pitt (Vol. 2, No. 210). 
 
+Cohen, I.B., 1955. Isaac Newton. Scientific American, 193(6), pp.73-83. 
 
+Tinker, T. and Freeland, M., 2008. Thief, slave trader, murderer: Christopher Columbus and Caribbean population decline. Wicazo Sa Review, 23(1), pp.25-50. 
 
-https://www.youtube.com/watch?v=fuxh7AmAHqY - this is my youtube video of the app.
+Guelzo, A.C., 2012. Does Lincoln Still Belong to the Ages?. Journal of the Abraham Lincoln Association, 33(1), pp.1-13. 
+
+Dyson, M.E., 2009. April 4, 1968: Martin Luther King Jr.'s death and how it changed America. Hachette UK. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference List for the code:
+https://www.youtube.com/watch?v=XIHNxES2hbQ
+
+OpenAI. 2024. Chat-GPT (Version 3.5). [Large language model]. Available at: https://chat.openai.com/c/4de07339-9adb-4007-a6fe-398a9f6849fd / [Accessed: 5 April 2024] 
+
+OpenAI. 2024. Chat-GPT (Version 3.5). [Large language model]. Available at: https://chat.openai.com/c/aa103b97-fcae-4069-ab91-f6066e6af943 / [Accessed: 5 April 2024] 
+
+OpenAI. 2024. Chat-GPT (Version 3.5). [Large language model]. Available at: https://chat.openai.com/c/ed63f841-f446-4015-bf3e-9f498a98f1dd / [Accessed: 20 March 2024]. 
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+YOUTUBE LINK- https://www.youtube.com/watch?v=fuxh7AmAHqY 
